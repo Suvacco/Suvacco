@@ -8,6 +8,7 @@
 <br>
 
 <h2> 😅 Creating bugs since I was 9 y/o </h2>
+<br>
 
 - 🔭 I’m currently working on [The Old School Project][theosproject]
 - 📚 I'm currently learning a lot of stuff (But focusing on React related stuff)
