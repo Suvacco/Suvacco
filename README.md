@@ -7,7 +7,7 @@
 <p><em>Have a look around, cheers! 😁</em></p>
 <br>
 
-<h2> 😅 Creating bugs since I was 9 y/o </h2>
+<h2> <img src="https://emojis.slackmojis.com/emojis/images/1682826385/65604/blob_crazy_happy.gif?1682826385" width="30"/> Creating bugs since I was 9 y/o </h2>
 <br>
 
 - 🔭 I’m currently working on [The Old School Project][theosproject]
