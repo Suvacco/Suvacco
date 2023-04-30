@@ -42,7 +42,7 @@
 
 </div>
 
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1637373790/50244/reading_book.gif?1637373790" width="30"/> What I am learning</h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1637373790/50244/reading_book.gif?1637373790" width="30"/> What I am aiming to learn</h2>
 <br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" width="52" alt="svelte logo"  />
