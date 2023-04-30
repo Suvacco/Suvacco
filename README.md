@@ -42,8 +42,6 @@
 
 </div>
 
-  <hr>
-
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1637373790/50244/reading_book.gif?1637373790" width="30"/> What I am learning</h2>
 <br>
 <div align="left">
