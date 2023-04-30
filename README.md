@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, what's up? </h1>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, what's up? </h2>
 <br>
 <p><em>Welcome to my page! My name is Yan -- aka Suvacco, nice to meet you 🙂</em></p>
 <p><em>I'm a fullstack developer based in <img src="https://user-images.githubusercontent.com/21000046/235337278-a74a6fb7-c730-4ea6-9f2a-87f30111d2ff.png" width="14"/> <strong>Belo Horizonte, Brazil</strong></em></p>
@@ -7,7 +7,7 @@
 <p><em>Have a look around, cheers! 😁</em></p>
 <br>
 
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1682826385/65604/blob_crazy_happy.gif?1682826385" width="26"/> Creating bugs since I was 9 y/o </h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1682826385/65604/blob_crazy_happy.gif?1682826385" width="30"/> Creating bugs since I was 9 y/o </h2>
 <br>
 
 - 🔭 I’m currently working on [The Old School Project][theosproject]
