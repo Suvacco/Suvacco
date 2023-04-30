@@ -6,7 +6,6 @@
 <p><em>Bringing my ideas to life makes them my ambition and gives me a incentive to keep looking foward to my own improvement</em></p>
 <p><em>Have a look around, cheers!</em></p>
 <br>
-
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1682826385/65604/blob_crazy_happy.gif?1682826385" width="30"/> Creating bugs since I was 9 y/o </h2>
 <br>
 
