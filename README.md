@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hey, what's up? My name is Yan! -- aka Suvacco <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+
+- ✨ Creating bugs since I was 9 y/o 😅
+
+- 📚 I'm currently learning a lot of stuff 
+
+- 🔭 I’m currently working on The Old School Project
+
+- 👯 I’m looking to collaborate on ...
+
+- 🎲 Fun fact: ...
 
 <!--
 **Suvacco/Suvacco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
