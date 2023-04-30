@@ -18,7 +18,7 @@
 - 🎲 Fun fact: I began coding through Minecraft!
 
 <br>
-<h2> Tools and Languages that I work with</h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1643515453/14740/pc_computer.gif?1643515453" width="24"/> Tools and Languages that I work with</h2>
 <br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
@@ -42,7 +42,7 @@
 </div>
 
 <br>
-<h2> My stats </h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1643517438/34691/cuphead_running.gif?1643517438" width="24"/> My stats </h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suvacco&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
