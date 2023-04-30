@@ -1,6 +1,6 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, what's up?
 
-<p><em>Welcome to my page! My name is Yan -- aka Suvacco, nice to meet you. I'm a fullstack developer based on Brazil 🇧🇷</em></p>
+<p><em>Welcome to my page! My name is Yan -- aka Suvacco, nice to meet you. I'm a fullstack developer based in Brazil :brazil: </em></p>
 
 ## 😅 Creating bugs since I was 9 y/o 
 
