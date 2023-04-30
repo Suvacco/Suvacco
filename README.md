@@ -1,8 +1,6 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, what's up?
 
-<div align="center">
-  <p>My name is Yan! -- aka Suvacco</p>
-</div>
+<p><em>My name is Yan! -- aka Suvacco</em></p>
 
 ## 😅 Creating bugs since I was 9 y/o 
 
