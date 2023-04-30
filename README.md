@@ -9,7 +9,7 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1682826385/65604/blob_crazy_happy.gif?1682826385" width="30"/> Creating bugs since I was 9 y/o </h2>
 <br>
 
-- 🔭 I’m currently working on [The Old School Project][theosproject]
+- 🔭 I’m currently working on the [Old School Project][theosproject]
 - 📚 I'm learning lots of npm packages (But focusing on React related ones)
 - 👯 I’m looking to collaborate on Java and MERN projects
 
