@@ -18,10 +18,8 @@
 - 🎲 Fun fact: I began coding through Minecraft!
 
 <br>
-<h3> Tools and Languages that I work with</h3>
-
+<h2> Tools and Languages that I work with</h2>
 <div align="left">
-  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
@@ -40,10 +38,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="52" alt="bash logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" width="52" alt="jquery logo"  />
-  <br>
 </div>
 
-
+<br>
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1643510948/51530/chatting.gif?1643510948" width="24"/> Feel free to connect with me </h2>
 
 <a href="https://www.linkedin.com/in/yan-nalon-ab27a4232/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
