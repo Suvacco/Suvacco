@@ -19,7 +19,9 @@
 
 <br>
 <h3> </h3>
-<h3> Feel free to connect with me </h3>
+
+
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1643510948/51530/chatting.gif?1643510948" width="24"/> Feel free to connect with me </h2>
 
 <a href="https://www.linkedin.com/in/yan-nalon-ab27a4232/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://whatsa.me/5571997216556/?t=Hey!%20I%20saw%20your%20GitHub%20profile!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
