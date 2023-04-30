@@ -43,7 +43,7 @@
 </div>
 
 <br>
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1643517438/34691/cuphead_running.gif?1643517438" width="24"/> My stats </h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1643517438/34691/cuphead_running.gif?1643517438" width="24"/> My Stats </h2>
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suvacco&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
