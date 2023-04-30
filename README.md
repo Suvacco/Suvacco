@@ -18,7 +18,7 @@
 - 🎲 Fun fact: I began coding through Minecraft!
 
 <br>
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1643515453/14740/pc_computer.gif?1643515453" width="24"/> Tools and Languages that I work with</h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1643515453/14740/pc_computer.gif?1643515453" width="30"/> Tools and Languages that I work with</h2>
 <br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo"  />
