@@ -78,7 +78,7 @@
 
 <div align="center">
 <br>
-  <img src="https://komarev.com/ghpvc/?username=suvacco&style=for-the-badge&color=green" width="200"/>
+  <img src="https://komarev.com/ghpvc/?username=suvacco&style=for-the-badge&color=blue" width="200"/>
 </div>
 
 [theosproject]: https://github.com/Suvacco/Old-School-Project
