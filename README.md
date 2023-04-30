@@ -3,7 +3,7 @@
 <p><em>Welcome to my page! My name is Yan -- aka Suvacco, nice to meet you 🙂</em></p>
 <p><em>I'm a fullstack developer based in <img src="https://user-images.githubusercontent.com/21000046/235337278-a74a6fb7-c730-4ea6-9f2a-87f30111d2ff.png" width="14"/> <strong>Belo Horizonte, Brazil</strong></em></p>
 <br>
-<p><em>Bringing my ideas to life makes them my ambition and gives me a incentive to keep looking foward to my own improvement</em></p>
+<p><em>Bringing my ideas to life is what gives me ambition and encourages me to keep looking foward to my own improvement</em></p>
 <p><em>Have a look around, cheers!</em></p>
 <br>
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1682826385/65604/blob_crazy_happy.gif?1682826385" width="30"/> Creating bugs since I was 9 y/o </h2>
