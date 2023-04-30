@@ -1,16 +1,19 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, what's up?
 
-<p><em>Welcome to my page! My name is Yan -- aka Suvacco, nice to meet you. I'm a fullstack developer based in Brazil <img src="https://user-images.githubusercontent.com/21000046/235337278-a74a6fb7-c730-4ea6-9f2a-87f30111d2ff.png" width="14" /> </em></p>
+<p><em>Welcome to my page! My name is Yan -- aka Suvacco, nice to meet you 🙂</em></p>
+<p><em>I'm a fullstack developer based in <img src="https://user-images.githubusercontent.com/21000046/235337278-a74a6fb7-c730-4ea6-9f2a-87f30111d2ff.png" width="14"/> <strong>Belo Horizonte, Brazil</strong></em></p>
+<p><em>Bringing my ideas to life makes them my ambition and gives me a incentive to keep looking foward to my own improvement</em></p>
 
-## 😅 Creating bugs since I was 9 y/o 
+<p><strong>Have a look around, cheers! 😁</strong></p>
+
+## 😅 Creating bugs since I was 9 y/o
 
 - 🔭 I’m currently working on [The Old School Project][theosproject]
 - 📚 I'm currently learning a lot of stuff (But focusing on React related stuff)
 - 👯 I’m looking to collaborate on Java and MERN projects
 
 - 🥅 2023 Goals: Become expert in the MERN tech stack and release my personal Minecraft project
-
-- 🎲 Fun fact, I began coding through Minecraft!
+- 🎲 Fun fact: I began coding through Minecraft!
 
 ### Feel free to connect with me
 
