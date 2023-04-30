@@ -58,4 +58,5 @@
 <a href="https://whatsa.me/5571997216556/?t=Hey!%20I%20saw%20your%20GitHub%20profile!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="https://www.instagram.com/yan_nalon/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <br>
+
 [theosproject]: https://github.com/Suvacco/Old-School-Project
