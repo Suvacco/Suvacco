@@ -11,7 +11,7 @@
 <br>
 
 - 🔭 I’m currently working on [The Old School Project][theosproject]
-- 📚 I'm currently learning a lot of stuff (But focusing on React related stuff)
+- 📚 I'm learning lots of npm packages (But focusing on React related ones)
 - 👯 I’m looking to collaborate on Java and MERN projects
 
 - 🥅 2023 Goals: Become expert in the MERN tech stack and release my personal Minecraft project
