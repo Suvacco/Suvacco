@@ -1,9 +1,6 @@
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, what's up?
 
-<p><em>Welcome to my page! My name is Yan -- aka Suvacco, nice to meet you. I'm a fullstack developer based in Brazil 
- </em></p>
-
-![brazil-](https://user-images.githubusercontent.com/21000046/235337278-a74a6fb7-c730-4ea6-9f2a-87f30111d2ff.png)
+<p><em>Welcome to my page! My name is Yan -- aka Suvacco, nice to meet you. I'm a fullstack developer based in Brazil <img src="https://user-images.githubusercontent.com/21000046/235337278-a74a6fb7-c730-4ea6-9f2a-87f30111d2ff.png" width="13" /> </em></p>
 
 ## 😅 Creating bugs since I was 9 y/o 
 
