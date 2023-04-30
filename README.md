@@ -1,26 +1,18 @@
-# Hey, what's up? My name is Yan! -- aka Suvacco <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, what's up? My name is Yan! -- aka Suvacco
 
-- ✨ Creating bugs since I was 9 y/o 😅
+## 😅 Creating bugs since I was 9 y/o 
 
-- 📚 I'm currently learning a lot of stuff 
+- 🔭 I’m currently working on [The Old School Project][theosproject]
+- 📚 I'm currently learning a lot of stuff (But focusing on React related stuff)
+- 👯 I’m looking to collaborate on Java and MERN projects
 
-- 🔭 I’m currently working on The Old School Project
+- 🥅 2023 Goals: Become expert in the MERN tech stack and release my personal Minecraft project
 
-- 👯 I’m looking to collaborate on ...
+- 🎲 Fun fact, I began coding through Minecraft!
 
-- 🎲 Fun fact: ...
+### Feel free to connect with me
 
-<!--
-**Suvacco/Suvacco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img align="left" alt="LinkedIn" width="26px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="padding-right:10px;" />][linkedin]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[linkedin]: https://www.linkedin.com/in/yan-nalon-ab27a4232/
+[theosproject]: https://github.com/Suvacco/Old-School-Project
