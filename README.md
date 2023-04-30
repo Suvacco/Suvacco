@@ -17,6 +17,7 @@
 - 🥅 2023 Goals: Become expert in the MERN tech stack and release my personal Minecraft project
 - 🎲 Fun fact: I began coding through Minecraft!
 
+<br>
 <h3> Feel free to connect with me </h3>
 
 <a href="https://www.linkedin.com/in/yan-nalon-ab27a4232/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
