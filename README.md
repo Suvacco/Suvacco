@@ -56,7 +56,6 @@
 </div>
 <br>
 
-<br>
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1643517438/34691/cuphead_running.gif?1643517438" width="24"/> My Stats </h2>
 <br>
 <div align="center">
