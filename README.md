@@ -7,7 +7,7 @@
 <p><em>Have a look around, cheers!</em></p>
 <br>
 
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1682826385/65604/blob_crazy_happy.gif?1682826385" width="24"/> Creating bugs since I was 9 y/o </h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1682826385/65604/blob_crazy_happy.gif?1682826385" width="30"/> Creating bugs since I was 9 y/o </h2>
 <br>
 
 - 🔭 I’m currently working on [The Old School Project][theosproject]
@@ -42,7 +42,7 @@
 </div>
 
 <br>
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1643517438/34691/cuphead_running.gif?1643517438" width="24"/> My stats </h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1643517438/34691/cuphead_running.gif?1643517438" width="30"/> My stats </h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suvacco&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
@@ -51,7 +51,7 @@
 </div>
 
 <br>
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1643510948/51530/chatting.gif?1643510948" width="24"/> Feel free to connect with me </h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1643510948/51530/chatting.gif?1643510948" width="30"/> Feel free to connect with me </h2>
 
 <a href="https://www.linkedin.com/in/yan-nalon-ab27a4232/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://whatsa.me/5571997216556/?t=Hey!%20I%20saw%20your%20GitHub%20profile!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
