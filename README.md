@@ -10,11 +10,11 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1682826385/65604/blob_crazy_happy.gif?1682826385" width="30"/> Creating bugs since I was 9 y/o </h2>
 <br>
 
-- 🔭 I’m currently working on the [Old School Project][theosproject]
-- 📚 I'm learning lots of npm packages (But focusing on React related ones)
-- 👯 I’m looking to collaborate on Java and MERN projects
+- 🔭 I’m currently working on the [TOSP-Minigames](https://github.com/Suvacco/TOSP-Minigames) repo
+- 📚 I'm learning how to develop Next.js apps
+- 👯 I’m looking to collaborate on Java and Next.js projects
 
-- 🥅 2023 Goals: Become expert in the MERN tech stack and release my personal Minecraft project
+- 🥅 2023 Goals: Become expert in a Tech Stack and release my personal projects
 - 🎲 Fun fact: I began coding through Minecraft!
 
 <br>
@@ -81,4 +81,4 @@
   <img src="https://komarev.com/ghpvc/?username=suvacco&style=for-the-badge&color=blue" width="200"/>
 </div>
 
-[theosproject]: https://github.com/Suvacco/Old-School-Project
+[TOSP-Minigames]: https://github.com/Suvacco/TOSP-Minigames
